@@ -1,0 +1,609 @@
+[
+  {
+    "id": 1,
+    "category": "admissions",
+    "question": "When does the admission process typically start?",
+    "answer": "The admission process generally begins in the months following board exam results."
+  },
+  {
+    "id": 2,
+    "category": "admissions",
+    "question": "Is there an entrance exam for admission?",
+    "answer": "Admissions may require a university-level entrance exam or scores from national-level tests."
+  },
+  {
+    "id": 3,
+    "category": "admissions",
+    "question": "Can students from other states apply?",
+    "answer": "Yes, students from all states can apply provided they meet the eligibility criteria."
+  },
+  {
+    "id": 4,
+    "category": "admissions",
+    "question": "Is there a reservation policy?",
+    "answer": "The university follows government-mandated reservation policies for admissions."
+  },
+  {
+    "id": 5,
+    "category": "admissions",
+    "question": "Are lateral entry admissions available?",
+    "answer": "Lateral entry options are available for diploma holders in select programs."
+  },
+  {
+    "id": 6,
+    "category": "admissions",
+    "question": "What documents are required during admission?",
+    "answer": "Basic academic certificates, ID proof, and photographs are generally required."
+  },
+  {
+    "id": 7,
+    "category": "admissions",
+    "question": "Is there an age limit for admissions?",
+    "answer": "Most programs do not have a strict age limit unless specified by regulatory bodies."
+  },
+  {
+    "id": 8,
+    "category": "admissions",
+    "question": "Can I apply for multiple courses at once?",
+    "answer": "Yes, applicants can apply for multiple courses subject to application guidelines."
+  },
+  {
+    "id": 9,
+    "category": "admissions",
+    "question": "How will I know if my application is accepted?",
+    "answer": "Applicants receive updates via the official portal and registered email."
+  },
+  {
+    "id": 10,
+    "category": "admissions",
+    "question": "Is there a counseling process after selection?",
+    "answer": "Yes, selected candidates must participate in a counseling and document verification process."
+  },
+  {
+    "id": 11,
+    "category": "fees",
+    "question": "When is the fee payment deadline?",
+    "answer": "Fee payment deadlines are usually announced at the beginning of each academic session."
+  },
+  {
+    "id": 12,
+    "category": "fees",
+    "question": "Are installment payment options available?",
+    "answer": "Yes, the university allows fee payment in installments for eligible students."
+  },
+  {
+    "id": 13,
+    "category": "fees",
+    "question": "Is there a refund policy for fees?",
+    "answer": "Refunds follow university guidelines based on the timing of admission withdrawal."
+  },
+  {
+    "id": 14,
+    "category": "fees",
+    "question": "Are there additional charges besides tuition fees?",
+    "answer": "Additional charges may include exam fees, registration fees, and campus service fees."
+  },
+  {
+    "id": 15,
+    "category": "fees",
+    "question": "Can international students pay in foreign currency?",
+    "answer": "Yes, international students can pay through approved foreign payment modes."
+  },
+  {
+    "id": 16,
+    "category": "fees",
+    "question": "How can I view my fee structure?",
+    "answer": "The complete fee structure is available on the official website under the fees section."
+  },
+  {
+    "id": 17,
+    "category": "fees",
+    "question": "Are scholarships deducted from the tuition fee?",
+    "answer": "Yes, approved scholarships are usually adjusted against the tuition fee."
+  },
+  {
+    "id": 18,
+    "category": "fees",
+    "question": "Is there a late fee for overdue payments?",
+    "answer": "Yes, overdue payments may attract a nominal late fee."
+  },
+  {
+    "id": 19,
+    "category": "fees",
+    "question": "Can I get a receipt after paying the fees?",
+    "answer": "Yes, payment receipts are available both online and offline."
+  },
+  {
+    "id": 20,
+    "category": "fees",
+    "question": "Do hostel fees need to be paid separately?",
+    "answer": "Yes, hostel fees are separate from academic fees and must be paid accordingly."
+  },
+  {
+    "id": 21,
+    "category": "courses",
+    "question": "What programs does the university offer?",
+    "answer": "The university offers undergraduate, postgraduate, and diploma programs in various disciplines."
+  },
+  {
+    "id": 22,
+    "category": "courses",
+    "question": "Are there specialization options in undergraduate programs?",
+    "answer": "Yes, several undergraduate programs offer multiple specialization tracks."
+  },
+  {
+    "id": 23,
+    "category": "courses",
+    "question": "Does the university follow a semester system?",
+    "answer": "Most programs follow a semester-based academic structure."
+  },
+  {
+    "id": 24,
+    "category": "courses",
+    "question": "Are distance learning courses available?",
+    "answer": "Distance learning options are available for selected programs through the open learning division."
+  },
+  {
+    "id": 25,
+    "category": "courses",
+    "question": "Can I change my course after admission?",
+    "answer": "Course changes are allowed within a limited period, subject to seat availability."
+  },
+  {
+    "id": 26,
+    "category": "courses",
+    "question": "Are the courses industry-oriented?",
+    "answer": "Most courses include industry-relevant curriculum and practical components."
+  },
+  {
+    "id": 27,
+    "category": "courses",
+    "question": "Does the university offer elective subjects?",
+    "answer": "Yes, students can choose from a range of elective subjects depending on their program."
+  },
+  {
+    "id": 28,
+    "category": "courses",
+    "question": "Is internship included in the course structure?",
+    "answer": "Many courses have a mandatory internship component during the final year."
+  },
+  {
+    "id": 29,
+    "category": "courses",
+    "question": "Are labs and practical sessions part of the curriculum?",
+    "answer": "Yes, practical sessions are included wherever applicable to enhance learning."
+  },
+  {
+    "id": 30,
+    "category": "courses",
+    "question": "Are course syllabi available online?",
+    "answer": "Yes, detailed course syllabi are published on the official website."
+  },
+  {
+    "id": 31,
+    "category": "placements",
+    "question": "Does the university have a placement cell?",
+    "answer": "Yes, a dedicated placement cell assists students with training and recruitment."
+  },
+  {
+    "id": 32,
+    "category": "placements",
+    "question": "Which companies visit for placements?",
+    "answer": "A variety of companies from IT, finance, manufacturing, and other sectors visit the campus."
+  },
+  {
+    "id": 33,
+    "category": "placements",
+    "question": "Is placement training provided?",
+    "answer": "Students receive training in aptitude, communication, and technical skills."
+  },
+  {
+    "id": 34,
+    "category": "placements",
+    "question": "What is the highest package offered?",
+    "answer": "The highest package varies each year depending on industry trends and student performance."
+  },
+  {
+    "id": 35,
+    "category": "placements",
+    "question": "Are internships supported by the university?",
+    "answer": "Yes, the placement cell helps students secure internships with partner companies."
+  },
+  {
+    "id": 36,
+    "category": "placements",
+    "question": "Does every student get placement assistance?",
+    "answer": "Yes, placement support is provided to all eligible students."
+  },
+  {
+    "id": 37,
+    "category": "placements",
+    "question": "How often are placement drives conducted?",
+    "answer": "Placement drives are conducted throughout the academic year."
+  },
+  {
+    "id": 38,
+    "category": "placements",
+    "question": "Is there a minimum eligibility for placement?",
+    "answer": "Students must meet academic and attendance criteria to participate."
+  },
+  {
+    "id": 39,
+    "category": "placements",
+    "question": "Are off-campus placements supported?",
+    "answer": "The placement cell may assist with off-campus opportunities when available."
+  },
+  {
+    "id": 40,
+    "category": "placements",
+    "question": "Does the university conduct mock interviews?",
+    "answer": "Yes, mock interviews are conducted to prepare students for real placements."
+  },
+  {
+    "id": 41,
+    "category": "events",
+    "question": "What types of events are conducted on campus?",
+    "answer": "The campus hosts cultural, technical, academic, and social events throughout the year."
+  },
+  {
+    "id": 42,
+    "category": "events",
+    "question": "Is there an annual cultural fest?",
+    "answer": "Yes, the university organizes a yearly cultural festival for students."
+  },
+  {
+    "id": 43,
+    "category": "events",
+    "question": "Can students participate in inter-college competitions?",
+    "answer": "Yes, students are encouraged to participate in inter-college events and competitions."
+  },
+  {
+    "id": 44,
+    "category": "events",
+    "question": "Are academic seminars organized regularly?",
+    "answer": "Yes, departments frequently host seminars and workshops."
+  },
+  {
+    "id": 45,
+    "category": "events",
+    "question": "Does the university conduct orientation programs?",
+    "answer": "Orientation programs are held at the beginning of each academic year."
+  },
+  {
+    "id": 46,
+    "category": "events",
+    "question": "Are alumni meets conducted?",
+    "answer": "Yes, alumni gatherings are organized periodically."
+  },
+  {
+    "id": 47,
+    "category": "events",
+    "question": "Is participation in events mandatory?",
+    "answer": "Participation is voluntary, though encouraged for overall development."
+  },
+  {
+    "id": 48,
+    "category": "events",
+    "question": "Are students allowed to organize their own events?",
+    "answer": "Yes, students can propose and organize events with faculty approval."
+  },
+  {
+    "id": 49,
+    "category": "events",
+    "question": "How are event schedules announced?",
+    "answer": "Event schedules are shared through the website and notice boards."
+  },
+  {
+    "id": 50,
+    "category": "events",
+    "question": "Does the university invite guest speakers?",
+    "answer": "Guest lectures and expert talks are regularly organized."
+  },
+  {
+    "id": 51,
+    "category": "sports",
+    "question": "What sports facilities are available on campus?",
+    "answer": "The campus provides facilities for indoor and outdoor sports."
+  },
+  {
+    "id": 52,
+    "category": "sports",
+    "question": "Are there university sports teams?",
+    "answer": "Yes, the university has teams for various sports that participate in tournaments."
+  },
+  {
+    "id": 53,
+    "category": "sports",
+    "question": "Is sports coaching provided?",
+    "answer": "Coaching is available for selected sports under trained instructors."
+  },
+  {
+    "id": 54,
+    "category": "sports",
+    "question": "Are inter-college sports events organized?",
+    "answer": "Yes, the university organizes and participates in inter-college sports meets."
+  },
+  {
+    "id": 55,
+    "category": "sports",
+    "question": "Can beginners join sports activities?",
+    "answer": "Yes, students of all skill levels are welcome to participate."
+  },
+  {
+    "id": 56,
+    "category": "sports",
+    "question": "Does the university conduct an annual sports day?",
+    "answer": "An annual sports day is held every year with various competitions."
+  },
+  {
+    "id": 57,
+    "category": "sports",
+    "question": "Are sports facilities available after class hours?",
+    "answer": "Yes, most facilities are accessible beyond regular class timings."
+  },
+  {
+    "id": 58,
+    "category": "sports",
+    "question": "Is there a gym on campus?",
+    "answer": "The campus includes a gym equipped with fitness equipment."
+  },
+  {
+    "id": 59,
+    "category": "sports",
+    "question": "Are sports events open to all students?",
+    "answer": "Yes, sports events are open for participation from all students."
+  },
+  {
+    "id": 60,
+    "category": "sports",
+    "question": "How can students join a university sports team?",
+    "answer": "Selections are conducted periodically based on trials."
+  },
+  {
+    "id": 61,
+    "category": "hostel",
+    "question": "Does the university provide hostel accommodation?",
+    "answer": "Yes, hostel facilities are available for both male and female students."
+  },
+  {
+    "id": 62,
+    "category": "hostel",
+    "question": "How many students are allotted per room?",
+    "answer": "Room allotment varies from single, double, to triple occupancy."
+  },
+  {
+    "id": 63,
+    "category": "hostel",
+    "question": "Are hostel rooms furnished?",
+    "answer": "Hostel rooms generally include basic furnishings such as beds, tables, and cupboards."
+  },
+  {
+    "id": 64,
+    "category": "hostel",
+    "question": "Is Wi-Fi available in hostels?",
+    "answer": "Yes, hostels provide Wi-Fi connectivity for academic use."
+  },
+  {
+    "id": 65,
+    "category": "hostel",
+    "question": "Are meals included in hostel fees?",
+    "answer": "Meals are provided through the mess facility, usually included in hostel fees."
+  },
+  {
+    "id": 66,
+    "category": "hostel",
+    "question": "Is there a hostel curfew?",
+    "answer": "Yes, hostels follow a scheduled entry timing for student safety."
+  },
+  {
+    "id": 67,
+    "category": "hostel",
+    "question": "Can students choose their roommates?",
+    "answer": "Roommate preferences may be considered depending on availability."
+  },
+  {
+    "id": 68,
+    "category": "hostel",
+    "question": "Are visitors allowed in the hostel?",
+    "answer": "Visitors are allowed only during permitted hours and with prior approval."
+  },
+  {
+    "id": 669,
+    "category": "hostel",
+    "question": "Is laundry service available?",
+    "answer": "Yes, laundry facilities are provided within the hostel premises."
+  },
+  {
+    "id": 70,
+    "category": "hostel",
+    "question": "How is hostel security ensured?",
+    "answer": "Hostels are monitored by wardens and security personnel round the clock."
+  },
+  {
+    "id": 71,
+    "category": "general",
+    "question": "What are the university's working hours?",
+    "answer": "The university operates during standard working hours on weekdays."
+  },
+  {
+    "id": 72,
+    "category": "general",
+    "question": "Where is the campus located?",
+    "answer": "The campus is located in an accessible area well connected by public transport."
+  },
+  {
+    "id": 73,
+    "category": "general",
+    "question": "How can I contact the university administration?",
+    "answer": "You can reach the administration through the official helpline or email."
+  },
+  {
+    "id": 74,
+    "category": "general",
+    "question": "Is there medical assistance available on campus?",
+    "answer": "A health center with basic medical facilities is available for students."
+  },
+  {
+    "id": 75,
+    "category": "general",
+    "question": "What is the medium of instruction?",
+    "answer": "The medium of instruction is primarily English for most programs."
+  },
+  {
+    "id": 76,
+    "category": "general",
+    "question": "Does the university have an anti-ragging policy?",
+    "answer": "Yes, the university strictly follows an anti-ragging policy as per regulations."
+  },
+  {
+    "id": 77,
+    "category": "general",
+    "question": "Are campus tours available?",
+    "answer": "Prospective students can arrange campus tours through the admissions office."
+  },
+  {
+    "id": 78,
+    "category": "general",
+    "question": "Are there student clubs on campus?",
+    "answer": "Yes, the university hosts various academic, cultural, and recreational clubs."
+  },
+  {
+    "id": 79,
+    "category": "general",
+    "question": "Is ID card mandatory inside the campus?",
+    "answer": "Students are required to carry their ID cards at all times on campus."
+  },
+  {
+    "id": 80,
+    "category": "general",
+    "question": "How are important announcements shared?",
+    "answer": "Notices are shared through the official website, emails, and campus boards."
+  },
+  {
+    "id": 101,
+    "category": "general",
+    "question": "hi",
+    "answer": "hello, how can I help you?"
+  },
+  {
+    "id": 81,
+    "category": "facilities",
+    "question": "What academic facilities are available on campus?",
+    "answer": "The campus includes libraries, laboratories, and smart classrooms."
+  },
+  {
+    "id": 82,
+    "category": "facilities",
+    "question": "Does the campus have a library?",
+    "answer": "Yes, a well-equipped library with digital resources is available."
+  },
+  {
+    "id": 83,
+    "category": "facilities",
+    "question": "Is there a transportation facility?",
+    "answer": "Transport services are available for students from various locations."
+  },
+  {
+    "id": 84,
+    "category": "facilities",
+    "question": "Are cafeterias available on campus?",
+    "answer": "Yes, multiple cafeterias serve nutritious food and beverages."
+  },
+  {
+    "id": 85,
+    "category": "facilities",
+    "question": "Does the campus provide medical facilities?",
+    "answer": "A health center with first-aid and basic treatment is available."
+  },
+  {
+    "id": 86,
+    "category": "facilities",
+    "question": "Is there a computer center?",
+    "answer": "Yes, a centralized computer center supports academic requirements."
+  },
+  {
+    "id": 87,
+    "category": "facilities",
+    "question": "Is the campus Wi-Fi enabled?",
+    "answer": "The campus offers Wi-Fi connectivity across academic blocks."
+  },
+  {
+    "id": 88,
+    "category": "facilities",
+    "question": "Are there seminar or conference halls?",
+    "answer": "Conference halls and seminar rooms are available for events and lectures."
+  },
+  {
+    "id": 89,
+    "category": "facilities",
+    "question": "Does the university offer transportation within campus?",
+    "answer": "Shuttle services operate within the campus for easy mobility."
+  },
+  {
+    "id": 90,
+    "category": "facilities",
+    "question": "Are printing and photocopy services available?",
+    "answer": "Yes, printing and photocopy services are available in designated areas."
+  },
+  {
+    "id": 91,
+    "category": "perks",
+    "question": "Does the university offer scholarships?",
+    "answer": "Various merit-based and need-based scholarships are available for students."
+  },
+  {
+    "id": 92,
+    "category": "perks",
+    "question": "Are students eligible for fee concessions?",
+    "answer": "Fee concessions may be offered based on academic performance or financial need."
+  },
+  {
+    "id": 93,
+    "category": "perks",
+    "question": "Does the university provide study abroad opportunities?",
+    "answer": "Selected programs offer international exchange opportunities."
+  },
+  {
+    "id": 94,
+    "category": "perks",
+    "question": "Are there industry certification programs?",
+    "answer": "Students can enroll in value-added certification programs."
+  },
+  {
+    "id": 95,
+    "category": "perks",
+    "question": "Do students receive career counseling?",
+    "answer": "Career guidance sessions are available through the placement cell."
+  },
+  {
+    "id": 96,
+    "category": "perks",
+    "question": "Are library memberships included for all?",
+    "answer": "Yes, all enrolled students automatically receive library access."
+  },
+  {
+    "id": 97,
+    "category": "perks",
+    "question": "Is there access to online learning platforms?",
+    "answer": "Students may receive access to partnered online learning resources."
+  },
+  {
+    "id": 98,
+    "category": "perks",
+    "question": "Are students offered skill development programs?",
+    "answer": "Skill development workshops are conducted across departments."
+  },
+  {
+    "id": 99,
+    "category": "perks",
+    "question": "Does the university provide mentorship programs?",
+    "answer": "Students are assigned mentors for academic guidance and support."
+  },
+  {
+    "id": 100,
+    "category": "perks",
+    "question": "Are there financial assistance programs?",
+    "answer": "The university offers various financial aid options to deserving students."
+  }
+
+]
